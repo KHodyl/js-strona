@@ -1,0 +1,36 @@
+Body
+{
+	background-color: #000000;
+}
+.page_container
+{
+	background-color: #595959;
+	font-family: 'Courier New';
+	padding: 3px;
+	padding-bottom: 250px;
+	height: 100%;
+}
+
+.nav_menu
+{
+	font-size: 40px;
+	font-family: monospace;
+	background-color: #353535;
+	color: #afafaf ;
+}
+
+
+
+.text_container
+{
+	background-color: #BFBFBF;
+	
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding-top: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+	font-size: 20px;
+}
